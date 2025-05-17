@@ -1,0 +1,8 @@
+/* 부트스트랩과 Tailwind를 함께 사용하므로 최소한의 커스텀 */
+body {
+  font-family: 'Pretendard', 'Noto Sans KR', sans-serif;
+}
+
+.card {
+  border: none;
+}
